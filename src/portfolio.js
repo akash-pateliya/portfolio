@@ -353,7 +353,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-7000478809",
+  number: "+91-7000478809",
   email_address: "akash.pateliya@outlook.com"
 };
 
